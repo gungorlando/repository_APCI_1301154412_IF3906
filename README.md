@@ -1,1 +1,3 @@
-# repository_APCI_1301154412_IF3906
+# APCI-1301154412-IF3906
+            Teaser DAP
+            Program sederhana menggunakan bahasa pemrograman pascal
